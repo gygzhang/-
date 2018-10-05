@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表多项式", "链表多项式\链表多项式.vcxproj", "{68401C7F-62FA-428D-B81D-2C75C4A656DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Debug|x64.ActiveCfg = Debug|x64
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Debug|x64.Build.0 = Debug|x64
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Debug|x86.Build.0 = Debug|Win32
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Release|x64.ActiveCfg = Release|x64
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Release|x64.Build.0 = Release|x64
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Release|x86.ActiveCfg = Release|Win32
+		{68401C7F-62FA-428D-B81D-2C75C4A656DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32723CDC-8398-48CF-A9EC-534B7C29D4F4}
+	EndGlobalSection
+EndGlobal
