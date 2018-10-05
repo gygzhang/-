@@ -21,9 +21,6 @@
     <ClCompile Include="..\..\Project11\Project11\PloyLink.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ssscpp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Project11\Project11\PloyLink.h">

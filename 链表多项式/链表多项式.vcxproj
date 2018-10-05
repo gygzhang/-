@@ -74,7 +74,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
   </ItemDefinitionGroup>
@@ -117,7 +117,6 @@
   <ItemGroup>
     <ClCompile Include="..\..\Project11\Project11\PloyLink.cpp" />
     <ClCompile Include="..\..\Project11\Project11\PloyListExecute.cpp" />
-    <ClCompile Include="ssscpp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Project11\Project11\PloyLink.h" />
