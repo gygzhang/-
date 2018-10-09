@@ -32,5 +32,13 @@
     <ClInclude Include="stringFun.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="aaa.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="链表多项式.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

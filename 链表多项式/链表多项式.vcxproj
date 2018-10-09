@@ -121,7 +121,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Project11\Project11\PloyLink.h" />
-    <ClInclude Include="stringFun.h" />
+    <ClInclude Include="aaa.h" />
+    <ClInclude Include="stringFun.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="链表多项式.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
