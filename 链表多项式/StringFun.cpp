@@ -3,6 +3,6 @@
 double charToDouble(char* p) {
 	double re;
 	int count = 0;
-
+	sscanf()
 
 }
